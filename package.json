@@ -1,0 +1,12 @@
+{
+  "title": "TabMan",
+  "name": "tabman",
+  "version": "0.0.1",
+  "description": "Simple Tab Sorter",
+  "main": "index.js",
+  "author": "David Keeler <mozkeeler@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
